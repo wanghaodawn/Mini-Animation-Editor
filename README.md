@@ -1,2 +1,1 @@
-# Mini-Animation-Editor
-An Animation Editor with keyframing, inverse kinematics, and physical dynamics.
+http://462cmu.github.io/asst4_animation

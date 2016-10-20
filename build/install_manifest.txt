@@ -1,0 +1,14 @@
+/Users/Dawn/Desktop/CG/asst4_animation/lib/libglew.a
+/Users/Dawn/Desktop/CG/asst4_animation/include/GL/glew.h
+/Users/Dawn/Desktop/CG/asst4_animation/include/GL/glxew.h
+/Users/Dawn/Desktop/CG/asst4_animation/include/GL/wglew.h
+/Users/Dawn/Desktop/CG/asst4_animation/include/GLFW/glfw3.h
+/Users/Dawn/Desktop/CG/asst4_animation/include/GLFW/glfw3native.h
+/Users/Dawn/Desktop/CG/asst4_animation/lib/cmake/glfw/glfw3Config.cmake
+/Users/Dawn/Desktop/CG/asst4_animation/lib/cmake/glfw/glfw3ConfigVersion.cmake
+/Users/Dawn/Desktop/CG/asst4_animation/lib/cmake/glfw/glfwTargets.cmake
+/Users/Dawn/Desktop/CG/asst4_animation/lib/cmake/glfw/glfwTargets-debug.cmake
+/Users/Dawn/Desktop/CG/asst4_animation/lib/pkgconfig/glfw3.pc
+/Users/Dawn/Desktop/CG/asst4_animation/lib/libglfw3.a
+/Users/Dawn/Desktop/CG/asst4_animation/lib/libCMU462.a
+/Users/Dawn/Desktop/CG/asst4_animation/animator
